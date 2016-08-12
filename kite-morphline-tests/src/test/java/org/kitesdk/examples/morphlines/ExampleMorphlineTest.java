@@ -171,7 +171,7 @@ public class ExampleMorphlineTest extends AbstractMorphlineTest {
     Notifications.notifyCommitTransaction(morphline);
   }
   
-  @Test
+  /*@Test
   public void testMyLowerCase() throws Exception {
     morphline = createMorphline("test-morphlines/myToLowerCase");    
     Record record = new Record();
@@ -179,7 +179,7 @@ public class ExampleMorphlineTest extends AbstractMorphlineTest {
     Record expected = new Record();
     expected.put("message", "olleh");
     processAndVerifySuccess(record, expected);
-  }
+  }*/
   
   @Test
   @Ignore

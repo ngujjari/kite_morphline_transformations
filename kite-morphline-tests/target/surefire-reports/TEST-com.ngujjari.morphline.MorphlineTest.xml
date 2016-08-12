@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="6.775" errors="0" skipped="1" tests="8" name="com.ngujjari.morphline.MorphlineTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\jdk1.7.0_79\jre\bin"/>
+    <property name="java.vm.version" value="24.79-b02"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Mywork\kite_morphline_transformations\kite-morphline-tests"/>
+    <property name="java.runtime.version" value="1.7.0_79-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\jdk1.7.0_79\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\NXG335\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Mywork\workspace\morphlineWS\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1722358981902368702.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\jdk1.7.0_79\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre6/bin/client;C:/Program Files/Java/jre6/bin;C:/Program Files/Java/jre6/lib/i386;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;c:\Informatica\9.5.1\clients\DT\bin;c:\Informatica\9.5.1\clients\tools\datadirect;c:\Informatica\9.5.1\clients\tools\odbcdrv;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Symantec\Symantec Endpoint Encryption Clients\;C:\Program Files\Attachmate\EXTRA!\;C:\Program Files\QuickTime\QTSystem\;C:\Softwares\installDir\Sencha\Cmd\6.0.2.14/..;C:\Program Files\Git\bin;C:\Softwares\sonar-runner-2.4\bin;C:\Softwares\jre1.8.0_45\bin;;C:\Softwares\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\NXG335"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="nxg335"/>
+    <property name="java.class.path" value="/C:/Softwares/eclipse/configuration/org.eclipse.osgi/bundles/535/1/.cp/jars/plexus-classworlds-2.4.jar"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\jdk1.7.0_79\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.7.0_79"/>
+    <property name="java.ext.dirs" value="C:\jdk1.7.0_79\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\jdk1.7.0_79\jre\lib\resources.jar;C:\jdk1.7.0_79\jre\lib\rt.jar;C:\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\jdk1.7.0_79\jre\lib\jsse.jar;C:\jdk1.7.0_79\jre\lib\jce.jar;C:\jdk1.7.0_79\jre\lib\charsets.jar;C:\jdk1.7.0_79\jre\lib\jfr.jar;C:\jdk1.7.0_79\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Mywork\kite_morphline_transformations\kite-morphline-tests\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="maven.bootclasspath" value="/C:/Softwares/eclipse/configuration/org.eclipse.osgi/bundles/535/1/.cp/jars/plexus-classworlds-2.4.jar"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase time="1.327" classname="com.ngujjari.morphline.MorphlineTest" name="testWebServerLogs"/>
+  <testcase time="0.702" classname="com.ngujjari.morphline.MorphlineTest" name="testLog4jLogs"/>
+  <testcase time="0.641" classname="com.ngujjari.morphline.MorphlineTest" name="testGrokSyslogNgCisco"/>
+  <testcase time="0.561" classname="com.ngujjari.morphline.MorphlineTest" name="testAddValues"/>
+  <testcase time="0.563" classname="com.ngujjari.morphline.MorphlineTest" name="testGrokEmail"/>
+  <testcase time="2.155" classname="com.ngujjari.morphline.MorphlineTest" name="testSimpleCSV"/>
+  <testcase time="2.155" classname="com.ngujjari.morphline.MorphlineTest" name="benchmarkJson">
+    <skipped/>
+  </testcase>
+  <testcase time="0.795" classname="com.ngujjari.morphline.MorphlineTest" name="testExtractJsonPathsFlattened"/>
+</testsuite>
