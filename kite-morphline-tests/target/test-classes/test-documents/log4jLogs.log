@@ -1,9 +1,0 @@
-2016.06.28-07.49.02 [CLCIP] DEBUG com.hanover.cip.helper.WS_ExpandedClaimsHelper.getClaimantSummary : getClaimantSummary(String, String, String, List<String>) - start
-2016.06.28-07.49.02 [CLCIP] INFO  com.hanover.cip.helper.WS_ExpandedClaimsHelper.getClaimantSummary : getClaimantSummary(String, String, String, List<String>) - userId=SXS989, firstName=ANA, lastName=PEREZ
-2016.06.28-07.49.02 [CLCIP] DEBUG com.hanover.cip.helper.WS_ExpandedClaimsHelper.init : init() - start
-2016.06.28-07.49.02 [CLCIP] DEBUG com.hanover.cip.common.JndiUtil.getJndi : getJndi(String) - start
-2016.06.28-07.49.02 [CLCIP] DEBUG com.hanover.cip.common.JndiUtil.getJndi : jndiName ==== cell/persistent/cip/expClaimSummaryEndPoint === http://prodservices.allmerica.com/prod/entp/claimsinquiry
-2016.06.28-07.49.02 [CLCIP] DEBUG com.hanover.cip.common.JndiUtil.getJndi : getJndi(String) - end
-2016.06.28-07.49.02 [CLCIP] DEBUG com.hanover.cip.helper.WS_ExpandedClaimsHelper.init : init() - end
-2016.06.28-07.51.01 [CLCIP] ERROR com.hanover.cip.helper.WS_ExpandedClaimsHelper.getClaimantSummary : getClaimantSummary(String, String, String, List<String>)
-2016.06.28-07.51.01 [CLCIP] DEBUG com.hanover.cip.common.Log4jTarget.internalLog : Error processing remote invocation: com.hanover.cip.common.CIPException: We are sorry for the inconvenience.HCM is temporarily unavailable.We will bring the site back online as soon as possible.Please call your key contact, if you need immediate help
